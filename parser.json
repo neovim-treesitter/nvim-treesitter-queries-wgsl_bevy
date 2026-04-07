@@ -1,6 +1,6 @@
 {
-  "parser_version": "d9306a798ede627001a8e5752f775858c8edd7e4",
   "lang": "wgsl_bevy",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-wgsl-bevy",
-  "semver": false
+  "semver": false,
+  "parser_version": "d9306a798ede627001a8e5752f775858c8edd7e4",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-wgsl-bevy"
 }
